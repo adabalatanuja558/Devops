@@ -1,66 +1,124 @@
 # 🚀 DevOps with Multi-Cloud Journey
 
-Hi, I'm **Tanuja Naidu Adabala** — a DevOps Engineer in training, documenting my complete learning journey from the **FLM Institute’s DevOps with Multi-Cloud** program.  
-This repository will track my progress, hands-on labs, and real-world projects as I explore **DevOps tools**, **CI/CD pipelines**, and **multi-cloud environments** like **AWS, Azure, and Google Cloud**.
+Hi, I'm **Tanuja Naidu Adabala** 👋  
+I’m currently learning **DevOps with Multi-Cloud** from **FLM Institute** and documenting my entire journey here.  
+This repository covers my progress, daily tasks, and hands-on practice with **DevOps tools, automation, and cloud platforms** (AWS + Azure).
 
 ---
 
-## 📚 Course Overview (FLM Institute)
-### 🧩 DevOps Tools
-- Linux & Shell Scripting  
-- Git & GitHub  
-- Jenkins (CI/CD)  
-- Docker & Kubernetes  
-- Terraform (Infrastructure as Code)  
-- Ansible (Configuration Management)  
-- Monitoring with Prometheus & Grafana  
+## 🎯 Objective
+To become a **DevOps & Cloud Engineer** skilled in building scalable, automated, and secure cloud infrastructure using modern DevOps practices.
 
-### ☁️ Multi-Cloud Platforms
-- AWS (Amazon Web Services)  
-- Microsoft Azure  
-- Google Cloud Platform (GCP)
+---
+
+## 📚 Learning Modules
+
+### 🐧 Linux (Operating System)
+- Linux Basics, Commands, File System, Permissions  
+- Bash Scripting  
+- Networking & Process Management  
+
+---
+
+### ☁️ Cloud Platforms
+#### **AWS**
+- EC2, VPC, S3, EBS, IAM, RDS, ELB, ASG, EFS  
+- ECR, ECS, EKS, SNS, CodeBuild  
+
+#### **Azure**
+- Azure AD, Virtual Machines, Load Balancers, Blob Storage  
+- Azure Pipelines, Azure Kubernetes Service (AKS), Azure SQL, Azure Artifacts  
+
+---
+
+### 🔧 Source Code Management (SCM)
+- **Git** — Version control system  
+- **GitHub** — Remote code repository  
+- **Bitbucket** — Team-based source management  
+
+---
+
+### ⚙️ Build & Integration Tools
+- **Maven** — Build and dependency management  
+- **Jenkins** — Continuous Integration (CI/CD) pipelines  
+- **Code Artifact Storage** — Managing build artifacts  
+
+---
+
+### 🐳 Containerization & Orchestration
+- **Docker** — Container creation and management  
+- **Kubernetes** — Container orchestration and deployment automation  
+
+---
+
+### 🧩 Configuration Management
+- **Ansible** — Automating infrastructure configuration  
+
+---
+
+### 🌍 Infrastructure as Code (IaC)
+- **Terraform** — Automating infrastructure provisioning across clouds  
+
+---
+
+### 🧠 AI & Automation Tools
+- Integrating **AI tools** for intelligent automation and monitoring  
+- Exploring DevOps + AI workflows  
+
+---
+
+### 🔍 Monitoring & Observability
+- **Datadog** — Application & infrastructure monitoring  
+- **New Relic** — Performance analytics and logs  
+
+---
+
+### 🔐 Security & Integrations
+- Cloud Security best practices  
+- Secure CI/CD and cloud deployments  
+- Integrations with tools like Jenkins, Docker Hub, GitHub Actions  
+
+---
+
+## 🧰 Tech Stack Summary
+
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| OS | Linux |
+| Cloud | AWS, Azure |
+| SCM | Git, GitHub, Bitbucket |
+| Build Tools | Maven |
+| CI/CD | Jenkins, Azure Pipelines |
+| Containerization | Docker, Kubernetes |
+| Config Management | Ansible |
+| IaC | Terraform |
+| Monitoring | Datadog, New Relic |
+| Security | IAM, Cloud Security |
+| Artifact Storage | Code Artifact, ACR, ECR |
+| AI Tools | Automation & Insights with AI |
 
 ---
 
 ## 🗓️ Daily Learning Log
 
-| Day | Topic | Key Takeaways | Status |
-|-----|--------|----------------|---------|
-| 1 | Linux Basics | File system, commands, permissions | ✅ |
-| 2 | Git & GitHub | Repositories, commits, branches | ⏳ |
-| 3 | Jenkins | Build pipelines, CI/CD basics | ⏳ |
-| 4 | Docker | Containers, images, Dockerfile | ⏳ |
-| 5 | Kubernetes | Pods, deployments, services | ⏳ |
-| 6 | AWS Cloud | EC2, IAM, S3 basics | ⏳ |
-| 7 | Azure Cloud | VMs, Resource Groups, Azure CLI | ⏳ |
-| 8 | GCP | Compute Engine, IAM, Storage | ⏳ |
-| 9 | Terraform | Infrastructure as Code automation | ⏳ |
-| 10 | Ansible | Server configuration management | ⏳ |
-
----
-
-## ☁️ Cloud Platforms Practiced
-`AWS` • `Azure` • `GCP`
-
----
-
-## 🧩 Tools I’m Learning
-`Linux` • `Git` • `Jenkins` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Prometheus` • `Grafana`
-
----
-
-## 🏗️ Projects I’ll Build
-- [ ] CI/CD Pipeline for a Web App (Jenkins + Docker + Kubernetes)  
-- [ ] Multi-Cloud Infrastructure using Terraform  
-- [ ] Monitoring Dashboard with Prometheus & Grafana  
-- [ ] Automated Deployment using Ansible  
+| Day | Module | Topic | Key Learnings | Status |
+|-----|----------|----------------|-------------|---------|
+| 1 | Linux | Basics & Commands | File system, permissions | ✅ |
+| 2 | Git | Version Control | Local & remote commits | ⏳ |
+| 3 | AWS | EC2 | Launch & configure instances | ⏳ |
+| 4 | Azure | Virtual Machines | Azure CLI & scaling | ⏳ |
+| 5 | Jenkins | CI/CD Basics | Pipeline setup | ⏳ |
+| 6 | Docker | Containers | Build & push images | ⏳ |
+| 7 | Kubernetes | Orchestration | Pods, services, deployments | ⏳ |
+| 8 | Terraform | IaC | Infrastructure provisioning | ⏳ |
+| 9 | Ansible | Configuration Mgmt | Automating setup | ⏳ |
+| 10 | Monitoring | Datadog/New Relic | Metrics & dashboards | ⏳ |
 
 ---
 
 ## 💡 Goal
-To become a **Multi-Cloud DevOps Engineer**, skilled in automating deployments, managing cloud infrastructure, and maintaining CI/CD pipelines across AWS, Azure, and GCP.
+To master DevOps automation, multi-cloud deployment, and continuous delivery using modern tools and best practices — and build a strong technical portfolio through consistent documentation.
 
 ---
 
-📌 _This repository is a continuous record of my practical learning journey._
-
+📌 _This repository is my complete DevOps + Multi-Cloud learning record from FLM Institute._
